@@ -5,22 +5,21 @@
 
 ### HOLA 👋
 
+Actualmente:
 
-<!--
-**Daviddmg3495G/Daviddmg3495G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 Estudio en la preparatoria federal lazaro cardenas
 
-Here are some ideas to get you started:
+💬 Elegi la capacitacion de TICS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Estoy aprendiendo a usar GitHub
 
+📲 Estoy en cuarto semestre
+
+⚡ Me interesa y quiero saber mas acerca de la programacion
+
+📫 Trato de terminar la escuela
+
+🔭 Me parece divertido el curso de MANTENIMIENTO Y  REDES DE COMPUTO
 
 
 |                      |          Lunes         |                       Martes                       |        Miercoles       |                  Jueves                 |              Viernes              |
