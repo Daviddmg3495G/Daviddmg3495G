@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/99762174/154774236-acc0c7ab-c3ac-4a61-90d4-1cf91349f0c7.png)
+
+![image](https://user-images.githubusercontent.com/99762174/154774041-cf4ae0e5-f8f3-4313-967a-3e4f49cd4e48.png)
+
+### HOLA 👋
+
 
 <!--
 **Daviddmg3495G/Daviddmg3495G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
