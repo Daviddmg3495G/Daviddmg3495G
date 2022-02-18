@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+|                      |          Lunes         |                       Martes                       |        Miercoles       |                  Jueves                 |              Viernes              |
+|:--------------------:|:----------------------:|:--------------------------------------------------:|:----------------------:|:---------------------------------------:|:---------------------------------:|
+|     11:05 - 11:55    |                        |          MANTENIMIENTO Y  REDES DE COMPUTO         |                        |                                         | MANTENIMIENTO Y  REDES DE COMPUTO |
+|     12:00 - 12:50    |                        |          MANTENIMIENTO Y  REDES DE COMPUTO         |                        |                                         | MANTENIMIENTO Y  REDES DE COMPUTO |
+|     12:55 - 13:45    |       BIOLOGÍA II      |                     BIOLOGÍA II                    |                        |                                         |           MATEMÁTICAS IV          |
+|     13:50 - 14:40    |     MATEMÁTICAS IV     | ACTIVIDADES FÍSICAS  DEPORTIVAS  Y  RECREATIVAS IV |     MATEMÁTICAS IV     |              LITERATURA II              |            BIOLOGÍA II            |
+|     14:45 - 15:35    |      LITERATURA II     |                   MATEMÁTICAS IV                   |        FÍSICA II       |              MATEMÁTICAS IV             |             FÍSICA II             |
+|     15:40 - 16:30    |        FÍSICA II       |                HISTORIA DE MÉXICO II               |      LITERATURA II     |          HISTORIA DE MÉXICO II          |             INGLÉS IV             |
+| RECESO 16:30 - 17:00 |                        |                                                    |                        |                                         |                                   |
+|     17:00 - 17:50    | COMUNIDADES  VIRTUALES |                      FÍSICA II                     | COMUNIDADES  VIRTUALES | ACTIVIDADES ARTÍSTICAS  Y CULTURALES IV |                                   |
+|     17:55 - 18:45    | COMUNIDADES  VIRTUALES |                                                    |        INGLÉS IV       |                FÍSICA II                |                                   |
+|     18:50 - 19:40    |  HISTORIA DE MÉXICO II |                                                    |       BIOLOGÍA II      |                INGLÉS IV                |                                   |
